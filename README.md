@@ -1,4 +1,4 @@
-openwrt-vagrant-openwrt14.07
+vagrant-openwrt14.07
 ============================
 
 This is my Vagrant setup for building a custom OpenWRT firmware based on the most current Trunk snapshots (14.07).
@@ -12,7 +12,7 @@ How does it work ?
 
 How to use ?
 
-1. Checkout the project '`git clone git@github.com:rofra/openwrt-vagrant-openwrt14.07.git`'
+1. Checkout the project '`git clone git@github.com:rofra/vagrant-openwrt14.07.git`'
 1. Start the machine '`vagrant up`'
 1. Make a '`vagrant ssh`' to connect into the machine
 1. Go to source list '`cd /home/vagrant/openwrt/openwrt-14.07/`'
